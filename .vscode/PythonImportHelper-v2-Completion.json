@@ -1,0 +1,3224 @@
+[
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "UserDoc",
+        "importPath": "server.v1.api.client.models.user_collection",
+        "description": "server.v1.api.client.models.user_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "server.v1.api.client.models.user_collection",
+        "description": "server.v1.api.client.models.user_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "server.v1.api.client.models.user_collection",
+        "description": "server.v1.api.client.models.user_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "update_one",
+        "importPath": "server.v1.api.utils.db_collection",
+        "description": "server.v1.api.utils.db_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document",
+        "importPath": "server.v1.api.utils.db_collection",
+        "description": "server.v1.api.utils.db_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_includes",
+        "importPath": "server.v1.api.utils.db_collection",
+        "description": "server.v1.api.utils.db_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document",
+        "importPath": "server.v1.api.utils.db_collection",
+        "description": "server.v1.api.utils.db_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "update_one",
+        "importPath": "server.v1.api.utils.db_collection",
+        "description": "server.v1.api.utils.db_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_excludes",
+        "importPath": "server.v1.api.utils.db_collection",
+        "description": "server.v1.api.utils.db_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document",
+        "importPath": "server.v1.api.utils.db_collection",
+        "description": "server.v1.api.utils.db_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_includes",
+        "importPath": "server.v1.api.utils.db_collection",
+        "description": "server.v1.api.utils.db_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskLog",
+        "importPath": "server.v1.api.utils.FlaskLog",
+        "description": "server.v1.api.utils.FlaskLog",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.FlaskLog",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskLog",
+        "importPath": "server.v1.api.utils.FlaskLog",
+        "description": "server.v1.api.utils.FlaskLog",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.FlaskLog",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskLog",
+        "importPath": "server.v1.api.utils.FlaskLog",
+        "description": "server.v1.api.utils.FlaskLog",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.FlaskLog",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskLog",
+        "importPath": "server.v1.api.utils.FlaskLog",
+        "description": "server.v1.api.utils.FlaskLog",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.FlaskLog",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskLog",
+        "importPath": "server.v1.api.utils.FlaskLog",
+        "description": "server.v1.api.utils.FlaskLog",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.FlaskLog",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskLog",
+        "importPath": "server.v1.api.utils.FlaskLog",
+        "description": "server.v1.api.utils.FlaskLog",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.FlaskLog",
+        "documentation": {}
+    },
+    {
+        "label": "StatusCode",
+        "importPath": "server.v1.api.utils.StatusCode",
+        "description": "server.v1.api.utils.StatusCode",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.StatusCode",
+        "documentation": {}
+    },
+    {
+        "label": "StatusCode",
+        "importPath": "server.v1.api.utils.StatusCode",
+        "description": "server.v1.api.utils.StatusCode",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.StatusCode",
+        "documentation": {}
+    },
+    {
+        "label": "StatusCode",
+        "importPath": "server.v1.api.utils.StatusCode",
+        "description": "server.v1.api.utils.StatusCode",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.StatusCode",
+        "documentation": {}
+    },
+    {
+        "label": "StatusCode",
+        "importPath": "server.v1.api.utils.StatusCode",
+        "description": "server.v1.api.utils.StatusCode",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.StatusCode",
+        "documentation": {}
+    },
+    {
+        "label": "StatusCode",
+        "importPath": "server.v1.api.utils.StatusCode",
+        "description": "server.v1.api.utils.StatusCode",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.StatusCode",
+        "documentation": {}
+    },
+    {
+        "label": "StatusCode",
+        "importPath": "server.v1.api.utils.StatusCode",
+        "description": "server.v1.api.utils.StatusCode",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.StatusCode",
+        "documentation": {}
+    },
+    {
+        "label": "StatusCode",
+        "importPath": "server.v1.api.utils.StatusCode",
+        "description": "server.v1.api.utils.StatusCode",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.StatusCode",
+        "documentation": {}
+    },
+    {
+        "label": "handle_signin",
+        "importPath": "server.v1.api.client.controllers.auth.signin_controller",
+        "description": "server.v1.api.client.controllers.auth.signin_controller",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.auth.signin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "handle_signin",
+        "importPath": "server.v1.api.client.controllers.auth.signin_controller",
+        "description": "server.v1.api.client.controllers.auth.signin_controller",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.auth.signin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "handle_signup",
+        "importPath": "server.v1.api.client.controllers.auth.signup_controller",
+        "description": "server.v1.api.client.controllers.auth.signup_controller",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.auth.signup_controller",
+        "documentation": {}
+    },
+    {
+        "label": "handle_signup",
+        "importPath": "server.v1.api.client.controllers.auth.signup_controller",
+        "description": "server.v1.api.client.controllers.auth.signup_controller",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.auth.signup_controller",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Bcrypt",
+        "importPath": "flask_bcrypt",
+        "description": "flask_bcrypt",
+        "isExtraImport": true,
+        "detail": "flask_bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "FileDoc",
+        "importPath": "server.v1.api.client.models.file_collection",
+        "description": "server.v1.api.client.models.file_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "file_collection",
+        "importPath": "server.v1.api.client.models.file_collection",
+        "description": "server.v1.api.client.models.file_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyzeStatus",
+        "importPath": "server.v1.api.client.models.file_collection",
+        "description": "server.v1.api.client.models.file_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "FileDoc",
+        "importPath": "server.v1.api.client.models.file_collection",
+        "description": "server.v1.api.client.models.file_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "FileDoc",
+        "importPath": "server.v1.api.client.models.file_collection",
+        "description": "server.v1.api.client.models.file_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyzeStatus",
+        "importPath": "server.v1.api.client.models.file_collection",
+        "description": "server.v1.api.client.models.file_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "FileDoc",
+        "importPath": "server.v1.api.client.models.file_collection",
+        "description": "server.v1.api.client.models.file_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "FileDoc",
+        "importPath": "server.v1.api.client.models.file_collection",
+        "description": "server.v1.api.client.models.file_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "emit",
+        "importPath": "flask_socketio",
+        "description": "flask_socketio",
+        "isExtraImport": true,
+        "detail": "flask_socketio",
+        "documentation": {}
+    },
+    {
+        "label": "SocketIO",
+        "importPath": "flask_socketio",
+        "description": "flask_socketio",
+        "isExtraImport": true,
+        "detail": "flask_socketio",
+        "documentation": {}
+    },
+    {
+        "label": "SocketIO",
+        "importPath": "flask_socketio",
+        "description": "flask_socketio",
+        "isExtraImport": true,
+        "detail": "flask_socketio",
+        "documentation": {}
+    },
+    {
+        "label": "create_response",
+        "importPath": "server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "description": "server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "documentation": {}
+    },
+    {
+        "label": "get_analyze_status",
+        "importPath": "server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "description": "server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitDoc",
+        "importPath": "server.v1.api.client.models.submit_collection",
+        "description": "server.v1.api.client.models.submit_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.submit_collection",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitDoc",
+        "importPath": "server.v1.api.client.models.submit_collection",
+        "description": "server.v1.api.client.models.submit_collection",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.models.submit_collection",
+        "documentation": {}
+    },
+    {
+        "label": "start_analyzing",
+        "importPath": "server.v1.api.client.controllers.tool.submit.handle_submit",
+        "description": "server.v1.api.client.controllers.tool.submit.handle_submit",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.submit.handle_submit",
+        "documentation": {}
+    },
+    {
+        "label": "handle_submit",
+        "importPath": "server.v1.api.client.controllers.tool.submit.handle_submit",
+        "description": "server.v1.api.client.controllers.tool.submit.handle_submit",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.submit.handle_submit",
+        "documentation": {}
+    },
+    {
+        "label": "gen_id",
+        "importPath": "server.v1.api.utils.gen_id",
+        "description": "server.v1.api.utils.gen_id",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.gen_id",
+        "documentation": {}
+    },
+    {
+        "label": "gen_id",
+        "importPath": "server.v1.api.utils.gen_id",
+        "description": "server.v1.api.utils.gen_id",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.gen_id",
+        "documentation": {}
+    },
+    {
+        "label": "Async",
+        "importPath": "server.v1.api.utils.Async",
+        "description": "server.v1.api.utils.Async",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.Async",
+        "documentation": {}
+    },
+    {
+        "label": "FileStorage",
+        "importPath": "werkzeug.datastructures.file_storage",
+        "description": "werkzeug.datastructures.file_storage",
+        "isExtraImport": true,
+        "detail": "werkzeug.datastructures.file_storage",
+        "documentation": {}
+    },
+    {
+        "label": "FileStorage",
+        "importPath": "werkzeug.datastructures.file_storage",
+        "description": "werkzeug.datastructures.file_storage",
+        "isExtraImport": true,
+        "detail": "werkzeug.datastructures.file_storage",
+        "documentation": {}
+    },
+    {
+        "label": "ImmutableMultiDict",
+        "importPath": "werkzeug.datastructures.structures",
+        "description": "werkzeug.datastructures.structures",
+        "isExtraImport": true,
+        "detail": "werkzeug.datastructures.structures",
+        "documentation": {}
+    },
+    {
+        "label": "dict_keys",
+        "importPath": "_collections_abc",
+        "description": "_collections_abc",
+        "isExtraImport": true,
+        "detail": "_collections_abc",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_json",
+        "importPath": "server.v1.api.utils.parsers",
+        "description": "server.v1.api.utils.parsers",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_jsonstr",
+        "importPath": "server.v1.api.utils.parsers",
+        "description": "server.v1.api.utils.parsers",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "get_subcontainer_file_path",
+        "importPath": "server.v1.api.utils.path",
+        "description": "server.v1.api.utils.path",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.path",
+        "documentation": {}
+    },
+    {
+        "label": "get_contracts_storage_path",
+        "importPath": "server.v1.api.utils.path",
+        "description": "server.v1.api.utils.path",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.path",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_files",
+        "importPath": "server.v1.api.utils.path",
+        "description": "server.v1.api.utils.path",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.path",
+        "documentation": {}
+    },
+    {
+        "label": "save_contract",
+        "importPath": "server.v1.api.utils.save_contract",
+        "description": "server.v1.api.utils.save_contract",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.save_contract",
+        "documentation": {}
+    },
+    {
+        "label": "tools.Tool",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "isExtraImport": true,
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "isExtraImport": true,
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "FinalResult",
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "isExtraImport": true,
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "RawResult",
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "isExtraImport": true,
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "isExtraImport": true,
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "FinalResult",
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "isExtraImport": true,
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "RawResult",
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "isExtraImport": true,
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "tools.Tool",
+        "description": "tools.Tool",
+        "isExtraImport": true,
+        "detail": "tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResult",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "FinalResult",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolAnalyzeArgs",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "FinalResult",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisIssue",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResult",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisIssue",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResult",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorClassification",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolAnalyzeArgs",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolName",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisIssue",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResult",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorClassification",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolAnalyzeArgs",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolName",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisIssue",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResult",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorClassification",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "FinalResult",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ImageConfig",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ImageVolume",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolAnalyzeArgs",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolName",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolAnalyzeArgs",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolName",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "get_analyze_result",
+        "importPath": "server.v1.api.client.controllers.tool.file.get_analyze_result",
+        "description": "server.v1.api.client.controllers.tool.file.get_analyze_result",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.file.get_analyze_result",
+        "documentation": {}
+    },
+    {
+        "label": "handle_resubmit",
+        "importPath": "server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "description": "server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "documentation": {}
+    },
+    {
+        "label": "listen_analyze_status_change",
+        "importPath": "server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "description": "server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "unique",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "unique",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "FloatField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "DictField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "DateTimeField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "DateField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "DateTimeField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "ListField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "BooleanField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "DateTimeField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "server.v1.config.database_config",
+        "description": "server.v1.config.database_config",
+        "isExtraImport": true,
+        "detail": "server.v1.config.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "init_database",
+        "importPath": "server.v1.config.database_config",
+        "description": "server.v1.config.database_config",
+        "isExtraImport": true,
+        "detail": "server.v1.config.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "ToolController",
+        "importPath": "server.v1.api.client.controllers.tool.ToolController",
+        "description": "server.v1.api.client.controllers.tool.ToolController",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.ToolController",
+        "documentation": {}
+    },
+    {
+        "label": "ToolController",
+        "importPath": "server.v1.api.client.controllers.tool.ToolController",
+        "description": "server.v1.api.client.controllers.tool.ToolController",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.ToolController",
+        "documentation": {}
+    },
+    {
+        "label": "ToolController",
+        "importPath": "server.v1.api.client.controllers.tool.ToolController",
+        "description": "server.v1.api.client.controllers.tool.ToolController",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.controllers.tool.ToolController",
+        "documentation": {}
+    },
+    {
+        "label": "submit_route",
+        "importPath": "server.v1.api.client.routes.tool.submit.submit_route",
+        "description": "server.v1.api.client.routes.tool.submit.submit_route",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.routes.tool.submit.submit_route",
+        "documentation": {}
+    },
+    {
+        "label": "file_route",
+        "importPath": "server.v1.api.client.routes.tool.file.file_route",
+        "description": "server.v1.api.client.routes.tool.file.file_route",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.routes.tool.file.file_route",
+        "documentation": {}
+    },
+    {
+        "label": "socketio",
+        "importPath": "server.v1.config.app_config",
+        "description": "server.v1.config.app_config",
+        "isExtraImport": true,
+        "detail": "server.v1.config.app_config",
+        "documentation": {}
+    },
+    {
+        "label": "setup_app_config",
+        "importPath": "server.v1.config.app_config",
+        "description": "server.v1.config.app_config",
+        "isExtraImport": true,
+        "detail": "server.v1.config.app_config",
+        "documentation": {}
+    },
+    {
+        "label": "socketio",
+        "importPath": "server.v1.config.app_config",
+        "description": "server.v1.config.app_config",
+        "isExtraImport": true,
+        "detail": "server.v1.config.app_config",
+        "documentation": {}
+    },
+    {
+        "label": "Call",
+        "importPath": "ast",
+        "description": "ast",
+        "isExtraImport": true,
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "Call",
+        "importPath": "ast",
+        "description": "ast",
+        "isExtraImport": true,
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "concurrent.futures",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "exclude_fields",
+        "importPath": "server.v1.api.utils.dict_utils",
+        "description": "server.v1.api.utils.dict_utils",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.dict_utils",
+        "documentation": {}
+    },
+    {
+        "label": "include_fields",
+        "importPath": "server.v1.api.utils.dict_utils",
+        "description": "server.v1.api.utils.dict_utils",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.dict_utils",
+        "documentation": {}
+    },
+    {
+        "label": "exclude_fields",
+        "importPath": "server.v1.api.utils.dict_utils",
+        "description": "server.v1.api.utils.dict_utils",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.dict_utils",
+        "documentation": {}
+    },
+    {
+        "label": "include_fields",
+        "importPath": "server.v1.api.utils.dict_utils",
+        "description": "server.v1.api.utils.dict_utils",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.dict_utils",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "auth_route",
+        "importPath": "server.v1.api.client.routes.auth.auth_route",
+        "description": "server.v1.api.client.routes.auth.auth_route",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.routes.auth.auth_route",
+        "documentation": {}
+    },
+    {
+        "label": "tool_route",
+        "importPath": "server.v1.api.client.routes.tool.tool_route",
+        "description": "server.v1.api.client.routes.tool.tool_route",
+        "isExtraImport": true,
+        "detail": "server.v1.api.client.routes.tool.tool_route",
+        "documentation": {}
+    },
+    {
+        "label": "user_route",
+        "importPath": "server.v1.api.admin.routes.user.user",
+        "description": "server.v1.api.admin.routes.user.user",
+        "isExtraImport": true,
+        "detail": "server.v1.api.admin.routes.user.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_env",
+        "importPath": "server.v1.api.utils.server_env",
+        "description": "server.v1.api.utils.server_env",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.server_env",
+        "documentation": {}
+    },
+    {
+        "label": "get_env",
+        "importPath": "server.v1.api.utils.server_env",
+        "description": "server.v1.api.utils.server_env",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.server_env",
+        "documentation": {}
+    },
+    {
+        "label": "get_env",
+        "importPath": "server.v1.api.utils.server_env",
+        "description": "server.v1.api.utils.server_env",
+        "isExtraImport": true,
+        "detail": "server.v1.api.utils.server_env",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "docker",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "docker",
+        "description": "docker",
+        "detail": "docker",
+        "documentation": {}
+    },
+    {
+        "label": "errors",
+        "importPath": "docker",
+        "description": "docker",
+        "isExtraImport": true,
+        "detail": "docker",
+        "documentation": {}
+    },
+    {
+        "label": "Log",
+        "importPath": "tools.utils.Log",
+        "description": "tools.utils.Log",
+        "isExtraImport": true,
+        "detail": "tools.utils.Log",
+        "documentation": {}
+    },
+    {
+        "label": "Log",
+        "importPath": "tools.utils.Log",
+        "description": "tools.utils.Log",
+        "isExtraImport": true,
+        "detail": "tools.utils.Log",
+        "documentation": {}
+    },
+    {
+        "label": "Log",
+        "importPath": "tools.utils.Log",
+        "description": "tools.utils.Log",
+        "isExtraImport": true,
+        "detail": "tools.utils.Log",
+        "documentation": {}
+    },
+    {
+        "label": "Log",
+        "importPath": "tools.utils.Log",
+        "description": "tools.utils.Log",
+        "isExtraImport": true,
+        "detail": "tools.utils.Log",
+        "documentation": {}
+    },
+    {
+        "label": "Log",
+        "importPath": "tools.utils.Log",
+        "description": "tools.utils.Log",
+        "isExtraImport": true,
+        "detail": "tools.utils.Log",
+        "documentation": {}
+    },
+    {
+        "label": "ExecResult",
+        "importPath": "docker.models.containers",
+        "description": "docker.models.containers",
+        "isExtraImport": true,
+        "detail": "docker.models.containers",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_jsonstr",
+        "importPath": "tools.utils.parsers",
+        "description": "tools.utils.parsers",
+        "isExtraImport": true,
+        "detail": "tools.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_jsonstr",
+        "importPath": "tools.utils.parsers",
+        "description": "tools.utils.parsers",
+        "isExtraImport": true,
+        "detail": "tools.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_json",
+        "importPath": "tools.utils.parsers",
+        "description": "tools.utils.parsers",
+        "isExtraImport": true,
+        "detail": "tools.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_jsonstr",
+        "importPath": "tools.utils.parsers",
+        "description": "tools.utils.parsers",
+        "isExtraImport": true,
+        "detail": "tools.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sub",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "override",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "override",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Docker",
+        "importPath": "tools.docker.Docker",
+        "description": "tools.docker.Docker",
+        "isExtraImport": true,
+        "detail": "tools.docker.Docker",
+        "documentation": {}
+    },
+    {
+        "label": "Docker",
+        "importPath": "tools.docker.Docker",
+        "description": "tools.docker.Docker",
+        "isExtraImport": true,
+        "detail": "tools.docker.Docker",
+        "documentation": {}
+    },
+    {
+        "label": "get_swc_link",
+        "importPath": "tools.utils.SWC",
+        "description": "tools.utils.SWC",
+        "isExtraImport": true,
+        "detail": "tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "get_swc_title",
+        "importPath": "tools.utils.SWC",
+        "description": "tools.utils.SWC",
+        "isExtraImport": true,
+        "detail": "tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "valid_swc",
+        "importPath": "tools.utils.SWC",
+        "description": "tools.utils.SWC",
+        "isExtraImport": true,
+        "detail": "tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "get_swc_link",
+        "importPath": "tools.utils.SWC",
+        "description": "tools.utils.SWC",
+        "isExtraImport": true,
+        "detail": "tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "get_swc_no",
+        "importPath": "tools.utils.SWC",
+        "description": "tools.utils.SWC",
+        "isExtraImport": true,
+        "detail": "tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "get_swc_title",
+        "importPath": "tools.utils.SWC",
+        "description": "tools.utils.SWC",
+        "isExtraImport": true,
+        "detail": "tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "get_title_name",
+        "importPath": "tools.utils.SWC",
+        "description": "tools.utils.SWC",
+        "isExtraImport": true,
+        "detail": "tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "link_hint",
+        "importPath": "tools.utils.SWC",
+        "description": "tools.utils.SWC",
+        "isExtraImport": true,
+        "detail": "tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "Async",
+        "importPath": "tools.utils.Async",
+        "description": "tools.utils.Async",
+        "isExtraImport": true,
+        "detail": "tools.utils.Async",
+        "documentation": {}
+    },
+    {
+        "label": "Async",
+        "importPath": "tools.utils.Async",
+        "description": "tools.utils.Async",
+        "isExtraImport": true,
+        "detail": "tools.utils.Async",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateIssue",
+        "importPath": "tools.utils.merge_tools",
+        "description": "tools.utils.merge_tools",
+        "isExtraImport": true,
+        "detail": "tools.utils.merge_tools",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "server.v1.api.client.socket.events",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "server.v1.api.client.socket.events",
+        "description": "server.v1.api.client.socket.events",
+        "detail": "server.v1.api.client.socket.events",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_users",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "peekOfCode": "def get_all_users() -> Response | tuple[str, int]:\n    try:\n        result = UserDoc.objects.all()\n        data = [item for item in result]\n        return jsonify(data)\n    except Exception as e:\n        return str(e), StatusCode.InternalServerError.value\n@user_route.route(\"/<string:user_id>\", methods=[\"GET\"])\ndef search_user(user_id) -> Response | tuple[Response, int]:\n    try:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "documentation": {}
+    },
+    {
+        "label": "search_user",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "peekOfCode": "def search_user(user_id) -> Response | tuple[Response, int]:\n    try:\n        user = UserDoc.objects(id=user_id).first()\n        if user:\n            # user['_id'] = str(user['_id'])\n            return jsonify(user)\n        else:\n            return jsonify({'message': 'User not found', 'user_id': user_id}), StatusCode.NotFound.value\n    except Exception as e:\n        return jsonify({'message': str(e)}), StatusCode.InternalServerError.value",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "peekOfCode": "def delete_user(user_id) -> tuple[Response, int]:\n    try:\n        delete_user = UserDoc.objects(id=user_id).delete()\n        if delete_user:\n            return jsonify({'message': f'User {user_id} deleted successfully'}), StatusCode.OK.value\n        else:\n            return jsonify({'message': 'User not found'}), StatusCode.NotFound.value\n    except Exception as e:\n        return jsonify({'message': str(e)}), StatusCode.InternalServerError.value\n@user_route.route('/update/<string:user_id>', methods=[\"PUT\"])",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "peekOfCode": "def update_user(user_id) -> tuple[Response, int]:\n    try:\n        updated_data = request.get_json()\n        user_updated: int = update_one(UserDoc, updated_data, id=user_id)\n        if (user_updated > 0):\n            return jsonify({'message': 'User updated successfully'}), StatusCode.OK.value\n        # else:\n        return jsonify({'message': 'User not found'}), StatusCode.NotFound.value # user_updated = 0 => user not found\n    except Exception as e:\n        return jsonify({'message': str(e)}), StatusCode.InternalServerError.value",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "documentation": {}
+    },
+    {
+        "label": "user_route",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "peekOfCode": "user_route = Blueprint(\"user\", __name__, url_prefix=\"/user\")\n@user_route.route(\"/\", methods=[\"GET\"])\ndef get_all_users() -> Response | tuple[str, int]:\n    try:\n        result = UserDoc.objects.all()\n        data = [item for item in result]\n        return jsonify(data)\n    except Exception as e:\n        return str(e), StatusCode.InternalServerError.value\n@user_route.route(\"/<string:user_id>\", methods=[\"GET\"])",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.admin.routes.user.user",
+        "documentation": {}
+    },
+    {
+        "label": "AuthController",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.AuthController",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.AuthController",
+        "peekOfCode": "class AuthController:\n    handle_signin = handle_signin\n    handle_signup = handle_signup",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.AuthController",
+        "documentation": {}
+    },
+    {
+        "label": "handle_signin",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signin_controller",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signin_controller",
+        "peekOfCode": "def handle_signin():\n    logging.info(\"Received a POST request to login\")\n    data: Any | None = request.json\n    # FlaskLog.info(data)\n    if data is None:\n        return jsonify({\"message\": \"Invalid JSON data\"}), StatusCode.BadRequest.value\n    data = request.get_json()\n    username = data.get('username') #type: ignore\n    password = data.get('password') #type: ignore\n    if not username or not password:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signin_controller",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signin_controller",
+        "peekOfCode": "bcrypt = Bcrypt()\ndef handle_signin():\n    logging.info(\"Received a POST request to login\")\n    data: Any | None = request.json\n    # FlaskLog.info(data)\n    if data is None:\n        return jsonify({\"message\": \"Invalid JSON data\"}), StatusCode.BadRequest.value\n    data = request.get_json()\n    username = data.get('username') #type: ignore\n    password = data.get('password') #type: ignore",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "handle_signup",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signup_controller",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signup_controller",
+        "peekOfCode": "def handle_signup() -> tuple[Response, int] | Response:\n    data: Any = request.json\n    if not validate_json_data(data):\n        return jsonify({\"message\": \"Invalid JSON data\"}), StatusCode.BadRequest.value\n    username = data.get('username')\n    if username_exists(username):\n        return jsonify({\"message\": \"Username already exists\"}), StatusCode.Conflict.value\n    new_user = create_new_user(data, username)\n    current_time: datetime = datetime.utcnow()\n    response_data = format_sign_up_response(new_user, username, current_time)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signup_controller",
+        "documentation": {}
+    },
+    {
+        "label": "validate_json_data",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signup_controller",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signup_controller",
+        "peekOfCode": "def validate_json_data(data: Any) -> bool:\n    return data is not None",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.auth.signup_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_analyze_result",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.file.get_analyze_result",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.file.get_analyze_result",
+        "peekOfCode": "def get_analyze_result():\n    file_id = request.args.get('id')\n    if file_id is None:\n        return \"No file_id provided\"\n    res = FileDoc.minimize(file_id, json=True)\n    if res is not None:\n        return jsonify(res)\n    else:\n        return \"File not found\", StatusCode.NotFound.value  # Return a 404 Not Found status code",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.file.get_analyze_result",
+        "documentation": {}
+    },
+    {
+        "label": "Data",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "peekOfCode": "class Data:\n    analyzing_files_id: list[str]\n    cnt_analyzing: int\ndef listen_analyze_status_change(data: Any) -> None:\n    casted_data: Data = Data(**data)\n    print(data)\n    FlaskLog.info(casted_data)\n    if (casted_data.cnt_analyzing == 0):\n        emit('close-listen-analyze-status-change')\n        return",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "documentation": {}
+    },
+    {
+        "label": "listen_analyze_status_change",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "peekOfCode": "def listen_analyze_status_change(data: Any) -> None:\n    casted_data: Data = Data(**data)\n    print(data)\n    FlaskLog.info(casted_data)\n    if (casted_data.cnt_analyzing == 0):\n        emit('close-listen-analyze-status-change')\n        return\n    pipeline = [\n        {\n            \"$match\": {",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.socket.listen_analyze_status_change",
+        "documentation": {}
+    },
+    {
+        "label": "create_response",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "peekOfCode": "def create_response(file_id: str, file_name: str, status: AnalyzeStatus | str) -> dict[str, str]:\n    return {\n        'file_id': file_id,\n        'file_name': file_name,\n        'status': status if isinstance(status, str) else status.value\n    }\ndef get_analyze_status():\n    \"\"\" response type [{\n        'file_id': str (id of this file),\n        'file_name': str (name of this file),",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "documentation": {}
+    },
+    {
+        "label": "get_analyze_status",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "peekOfCode": "def get_analyze_status():\n    \"\"\" response type [{\n        'file_id': str (id of this file),\n        'file_name': str (name of this file),\n        'status': AnalyzeStatus (status of this file)\n    }]: list of file of this submit\n    Returns:\n        _type_: _description_\n    \"\"\"\n    submit_id: str | None = request.args.get('id')",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "peekOfCode": "__all__ = ['get_analyze_status']\ndef create_response(file_id: str, file_name: str, status: AnalyzeStatus | str) -> dict[str, str]:\n    return {\n        'file_id': file_id,\n        'file_name': file_name,\n        'status': status if isinstance(status, str) else status.value\n    }\ndef get_analyze_status():\n    \"\"\" response type [{\n        'file_id': str (id of this file),",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.get_analyze_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReSubmitRequest",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "peekOfCode": "class ReSubmitRequest:\n    old_file_id: str\n    new_file_name: str\n    source_code: str\n    user_id: str\ndef handle_resubmit():\n    if (request.json is None):\n        return jsonify({'msg': 'No data provided'}), StatusCode.BadRequest.value\n    resubmit_data = ReSubmitRequest(**request.json)\n    file_info: FileDoc | None = get_document_includes(FileDoc, id=resubmit_data.old_file_id, included_fields=['submit_id']) # type: ignore",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "documentation": {}
+    },
+    {
+        "label": "handle_resubmit",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "peekOfCode": "def handle_resubmit():\n    if (request.json is None):\n        return jsonify({'msg': 'No data provided'}), StatusCode.BadRequest.value\n    resubmit_data = ReSubmitRequest(**request.json)\n    file_info: FileDoc | None = get_document_includes(FileDoc, id=resubmit_data.old_file_id, included_fields=['submit_id']) # type: ignore\n    if (file_info is None):\n        return jsonify({'msg': 'Wrong submit id'}), StatusCode.BadRequest.value\n    submit_id: str = str(file_info.submit_id)\n    new_file_id = gen_id()\n    start_analyzing(",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_resubmit",
+        "documentation": {}
+    },
+    {
+        "label": "FileInfo",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "peekOfCode": "class FileInfo:\n    file_id: str\n    file_name: str\n@dataclass\nclass SubmitResponse:\n    submit_id: str\n    files_info: list[FileInfo]\ndef handle_submit():\n    \"\"\"\n        response type {",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitResponse",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "peekOfCode": "class SubmitResponse:\n    submit_id: str\n    files_info: list[FileInfo]\ndef handle_submit():\n    \"\"\"\n        response type {\n            'submit_id': str (id of this submit)\n            '\n        }\n    Returns:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "documentation": {}
+    },
+    {
+        "label": "handle_submit",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "peekOfCode": "def handle_submit():\n    \"\"\"\n        response type {\n            'submit_id': str (id of this submit)\n            '\n        }\n    Returns:\n        _type_: _description_\n    \"\"\"\n    user_id = \"tung123\"",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "documentation": {}
+    },
+    {
+        "label": "start_analyzing",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "peekOfCode": "def start_analyzing(\n    submit_id: str,\n    user_id,\n    files_ids: list[str],\n    files_name: list[str],\n    files_sourcode: list[FileStorage] | list[str],\n    detach: bool = True\n) -> None:\n    for i, file_id in enumerate(files_ids):\n        source_code: str = save_contract(",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "documentation": {}
+    },
+    {
+        "label": "update_result",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "peekOfCode": "def update_result(result: FinalResult, detach: bool = False):\n    def main():\n        tool_name: str = result.tool_name\n        duration: float = result.duration\n        solc: str = result.solc\n        analysis: AnalysisResult = result.analysis\n        file_id: str = result.file_name.replace(\".sol\", \"\")\n        status: AnalyzeStatus = AnalyzeStatus.ERROR if len(analysis.errors) != 0 else AnalyzeStatus.COMPLETED\n        try:\n            update_one(doc=FileDoc, data={",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
+        "documentation": {}
+    },
+    {
+        "label": "ToolController",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.ToolController",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.ToolController",
+        "peekOfCode": "class ToolController:\n    handle_submit = handle_submit\n    get_analyze_status = get_analyze_status\n    get_analyze_result = get_analyze_result\n    listen_analyze_status_change = listen_analyze_status_change\n    handle_resubmit= handle_resubmit",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.ToolController",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyzeStatus",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "peekOfCode": "class AnalyzeStatus(Enum):\n    ANALYZING = \"Analyzing\"\n    ERROR = \"Error\"\n    COMPLETED = \"Completed\"\nclass FileDoc(Document):\n    id = StringField(primary_key=True)  # Remove default value\n    file_name = StringField(required=True)\n    status=EnumField(AnalyzeStatus, required=True)\n    tool_name = StringField(required=True, default=\"\")\n    duration = FloatField(required=True, default=0)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "FileDoc",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "peekOfCode": "class FileDoc(Document):\n    id = StringField(primary_key=True)  # Remove default value\n    file_name = StringField(required=True)\n    status=EnumField(AnalyzeStatus, required=True)\n    tool_name = StringField(required=True, default=\"\")\n    duration = FloatField(required=True, default=0)\n    solc= StringField(required=True, default=\"\")\n    analysis = DictField(required=True, default={\"error\": [], \"issues\": []})\n    source_code = StringField(required=True)\n    submit_id = StringField(required=True)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "file_collection",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "peekOfCode": "file_collection = db.files\nclass AnalyzeStatus(Enum):\n    ANALYZING = \"Analyzing\"\n    ERROR = \"Error\"\n    COMPLETED = \"Completed\"\nclass FileDoc(Document):\n    id = StringField(primary_key=True)  # Remove default value\n    file_name = StringField(required=True)\n    status=EnumField(AnalyzeStatus, required=True)\n    tool_name = StringField(required=True, default=\"\")",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.file_collection",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitDoc",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.submit_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.submit_collection",
+        "peekOfCode": "class SubmitDoc(Document):\n    id = StringField(primary_key=True)\n    files_ids = ListField(StringField(), required=True)\n    createdAt = DateTimeField(default=datetime.utcnow())\n    meta: dict[str, str] = {\n        'collection': 'submits'\n    }\n    @classmethod\n    def get_all_files(cls, submit_id: str, needed_field: str | list[str] = '_all') -> list[FileDoc] | None:\n        submit: SubmitDoc | None | dict[str, Any] = get_document_includes(SubmitDoc, submit_id, ['files_ids'])",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.submit_collection",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "peekOfCode": "class UserRole(Enum):\n    ADMIN = \"admin\"\n    USER = \"user\"\nclass UserDoc(Document):\n    id = StringField(required=True, primary_key=True)\n    name = StringField(required=True)\n    username = StringField(required=True)\n    password = StringField(required=True)\n    role = EnumField(UserRole, required=True)\n    email = StringField(required=True)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "UserDoc",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "peekOfCode": "class UserDoc(Document):\n    id = StringField(required=True, primary_key=True)\n    name = StringField(required=True)\n    username = StringField(required=True)\n    password = StringField(required=True)\n    role = EnumField(UserRole, required=True)\n    email = StringField(required=True)\n    email_verified = BooleanField(required=True, default=False)\n    last_online = DateTimeField(default=datetime.utcnow())\n    created_at = DateTimeField(default=datetime.utcnow())",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "username_exists",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "peekOfCode": "def username_exists(username: str) -> bool:\n    user = UserDoc.objects(username=username).first()\n    # If a user with the given username is found, return True; otherwise, return False\n    return user is not None\ndef update_last_online(username) -> None:\n    user = UserDoc.objects(username=username).first()\n        # uk_users = User.objects(country='uk')\n    if user:\n        user.last_online = datetime.now()\n        user.save()",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "update_last_online",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "peekOfCode": "def update_last_online(username) -> None:\n    user = UserDoc.objects(username=username).first()\n        # uk_users = User.objects(country='uk')\n    if user:\n        user.last_online = datetime.now()\n        user.save()\ndef get_field_value(username, field_name) -> Any | None:\n    \"\"\"\n    Dùng cái này gán tên người dùng và field cần lấy, đỡ viết nhiều hàm get quá\n    Args:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_field_value",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "peekOfCode": "def get_field_value(username, field_name) -> Any | None:\n    \"\"\"\n    Dùng cái này gán tên người dùng và field cần lấy, đỡ viết nhiều hàm get quá\n    Args:\n        username (str): tên người dùng\n        field_name (str): email, created_at, etc\n    Returns:\n        Giá trị của field_name\n    \"\"\"\n    #example: user = User.objects(last_online=\"john123\").first()",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_user",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "peekOfCode": "def create_new_user(data: Any, username: str):\n    current_time: datetime = datetime.utcnow()\n    new_user = UserDoc(\n        id=str(uuid.uuid4()),\n        name=data.get('name'),\n        username=username,\n        password=data.get('password'),\n        email=data.get('email'),\n        role=data.get(\"role\")\n    ).save()",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "format_sign_up_response",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "peekOfCode": "def format_sign_up_response(new_user: UserDoc, username: str, current_time: datetime) -> dict:\n    return {\n        \"message\": \"Sign Up successful\",\n        \"_id\": new_user.id,\n        \"name\": new_user.name,\n        \"username\": username,\n        \"password\": new_user.password,\n        \"email\": new_user.email,\n        \"email_verified\": False,\n        \"last_online\": current_time,",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.models.user_collection",
+        "documentation": {}
+    },
+    {
+        "label": "auth_route",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.auth.auth_route",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.auth.auth_route",
+        "peekOfCode": "auth_route = Blueprint(\"auth_bp\", __name__, url_prefix=\"/auth\")\nauth_route.route(\"/login\", methods=[\"POST\"])(handle_signin)\nauth_route.route(\"/signup\", methods=[\"POST\"])(handle_signup)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.auth.auth_route",
+        "documentation": {}
+    },
+    {
+        "label": "file_route",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.file.file_route",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.file.file_route",
+        "peekOfCode": "file_route = Blueprint(\"file_bp\", __name__, url_prefix=\"/file\")\nfile_route.get('/get-analyze-result')(ToolController.get_analyze_result)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.file.file_route",
+        "documentation": {}
+    },
+    {
+        "label": "submit_route",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.submit.submit_route",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.submit.submit_route",
+        "peekOfCode": "submit_route = Blueprint(\"submit_bp\", __name__, url_prefix=\"/submit\")\nsubmit_route.post('')(ToolController.handle_submit)\nsubmit_route.get('/get-analyze-status')(ToolController.get_analyze_status)\nsubmit_route.post('/resubmit')(ToolController.handle_resubmit)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.submit.submit_route",
+        "documentation": {}
+    },
+    {
+        "label": "tool_route",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.tool_route",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.tool_route",
+        "peekOfCode": "tool_route = Blueprint(\"tool_bp\", __name__, url_prefix=\"/tool\")\ntool_route.register_blueprint(submit_route)\ntool_route.register_blueprint(file_route)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.routes.tool.tool_route",
+        "documentation": {}
+    },
+    {
+        "label": "listen_analyze_status_change",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.socket.events",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.socket.events",
+        "peekOfCode": "def listen_analyze_status_change(data: Any) -> None:\n    ToolController.listen_analyze_status_change(data)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.socket.events",
+        "documentation": {}
+    },
+    {
+        "label": "Async",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.Async",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.Async",
+        "peekOfCode": "class Async:\n    @classmethod\n    def run_functions(\n        cls,\n        arr_func: list[Callable],\n        arr_args: list[list],\n        detach: bool = False\n    ) -> list:\n        \"\"\"Run multiple functions with each arguments separately asynchronously\n        Args:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.Async",
+        "documentation": {}
+    },
+    {
+        "label": "update_one",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "peekOfCode": "def update_one(doc: Type[T], data: dict, **query) -> int:\n    \"\"\"return the number of updated successfully document\n    Args:\n        doc (Type[T]): class that extends Document\n        data (dict): new value of fields need to updated\n    Returns:\n        int: _description_\n    \"\"\"\n    return doc.objects(**query).update_one(**{\"set__\" + key: value for key, value in data.items()})\ndef get_document(doc: Type[T], id: str) -> T | None:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "peekOfCode": "def get_document(doc: Type[T], id: str) -> T | None:\n    return doc.objects(id = id).first()\ndef get_document_includes(\n    doc: Type[T],\n    id: str,\n    included_fields: list[str],\n    json: bool = False\n) -> T | dict[str, Any] | None:\n    res: T = doc.objects(id=id).only(*included_fields).first()\n    if res is None:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_includes",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "peekOfCode": "def get_document_includes(\n    doc: Type[T],\n    id: str,\n    included_fields: list[str],\n    json: bool = False\n) -> T | dict[str, Any] | None:\n    res: T = doc.objects(id=id).only(*included_fields).first()\n    if res is None:\n        return None\n    if not json:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_excludes",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "peekOfCode": "def get_document_excludes(\n    doc: Type[T],\n    id: str,\n    excluded_fields: list[str],\n    json: bool = False\n) -> dict[str, Any] | T | None:\n    res: T =  doc.objects(id=id).exclude(*excluded_fields).first()\n    if res is None:\n        return None\n    if not json:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "document_to_dict",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "peekOfCode": "def document_to_dict(doc: T) -> dict[str, Any]: # type:ignore\n    return doc.to_mongo().to_dict()",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "peekOfCode": "T = TypeVar('T', bound=Document)\ndef update_one(doc: Type[T], data: dict, **query) -> int:\n    \"\"\"return the number of updated successfully document\n    Args:\n        doc (Type[T]): class that extends Document\n        data (dict): new value of fields need to updated\n    Returns:\n        int: _description_\n    \"\"\"\n    return doc.objects(**query).update_one(**{\"set__\" + key: value for key, value in data.items()})",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.db_collection",
+        "documentation": {}
+    },
+    {
+        "label": "include_fields",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.dict_utils",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.dict_utils",
+        "peekOfCode": "def include_fields(data: dict[str, Any], fields: list[str]) -> dict[str, Any]:\n    \"\"\"lấy tất cả các field trong mảng fields từ data\n    Args:\n        data (dict[str, Any]): _description_\n        fields (list[str]): _description_\n    Returns:\n        dict[str, Any]: _description_\n    \"\"\"\n    return {\n        key: data[key] for key in fields if key in data",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.dict_utils",
+        "documentation": {}
+    },
+    {
+        "label": "exclude_fields",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.dict_utils",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.dict_utils",
+        "peekOfCode": "def exclude_fields(data: dict[str, Any], fields: list[str]) -> dict[str, Any]:\n    \"\"\"loại tất cả các field\n    Args:\n        data (dict[str, Any]): _description_\n        fields (list[str]): _description_\n    Returns:\n        dict[str, Any]: _description_\n    \"\"\"\n    return {\n        key: data[key] for key in data.keys() if key not in fields",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.dict_utils",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskLog",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.FlaskLog",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.FlaskLog",
+        "peekOfCode": "class FlaskLog:\n    @staticmethod\n    def info(msg: Any) -> None:\n        print(Fore.GREEN + \"INFO: \" + str(msg), flush=True)\n    @staticmethod\n    def warn(msg: Any) -> None:\n        print(Fore.YELLOW + \"WARNING: \" + str(msg), flush=True)\n    @staticmethod\n    def err(msg: Any) -> None:\n        print(Fore.RED + \"ERROR: \" + str(msg), flush=True)",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.FlaskLog",
+        "documentation": {}
+    },
+    {
+        "label": "gen_id",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.gen_id",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.gen_id",
+        "peekOfCode": "def gen_id() -> str:\n    return str(uuid.uuid4())",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.gen_id",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_jsonstr",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.parsers",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.parsers",
+        "peekOfCode": "def obj_to_jsonstr(obj: object) -> str:\n    return json.dumps(\n        obj,\n        default=lambda o:\n            o.value if isinstance(o, Enum) else o.__dict__,\n        indent=2)\ndef obj_to_json(o: object) -> dict[str, Any]:\n    return json.loads(obj_to_jsonstr(o))",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_json",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.parsers",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.parsers",
+        "peekOfCode": "def obj_to_json(o: object) -> dict[str, Any]:\n    return json.loads(obj_to_jsonstr(o))",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "get_contracts_storage_path",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "peekOfCode": "def get_contracts_storage_path(user_id: str, submit_id: str) -> str:\n    from server.v1.config.app_config import tool_storage_path\n    return os.path.join(tool_storage_path, user_id, submit_id, \"contracts\")\ndef get_subcontainer_file_path(user_id: str, submit_id: str) -> str:\n    return f'{user_id}/{submit_id}/contracts'\ndef get_all_files(path: str, exts: list[str] = [\".sol\"]) -> list[str]:\n    files: list[str] = []\n    if os.path.exists(path) and os.path.isdir(path):\n        items: list[str] = os.listdir(path)\n        for item in items:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "documentation": {}
+    },
+    {
+        "label": "get_subcontainer_file_path",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "peekOfCode": "def get_subcontainer_file_path(user_id: str, submit_id: str) -> str:\n    return f'{user_id}/{submit_id}/contracts'\ndef get_all_files(path: str, exts: list[str] = [\".sol\"]) -> list[str]:\n    files: list[str] = []\n    if os.path.exists(path) and os.path.isdir(path):\n        items: list[str] = os.listdir(path)\n        for item in items:\n            if os.path.isfile(os.path.join(path, item)):\n                name, ext = os.path.splitext(item)\n                if ext in exts:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_files",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "peekOfCode": "def get_all_files(path: str, exts: list[str] = [\".sol\"]) -> list[str]:\n    files: list[str] = []\n    if os.path.exists(path) and os.path.isdir(path):\n        items: list[str] = os.listdir(path)\n        for item in items:\n            if os.path.isfile(os.path.join(path, item)):\n                name, ext = os.path.splitext(item)\n                if ext in exts:\n                    files.append(item)\n    return files",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.path",
+        "documentation": {}
+    },
+    {
+        "label": "save_contract",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.save_contract",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.save_contract",
+        "peekOfCode": "def save_contract(submit_id: str, file_id: str, file_data: FileStorage | str, user_id: str) -> str:\n    user_storage: str = get_contracts_storage_path(user_id=user_id, submit_id=submit_id)\n    if not os.path.exists(user_storage):\n        os.makedirs(user_storage)\n    path: str = os.path.join(user_storage, file_id +'.sol')\n    if isinstance(file_data, str):\n        with open(path, 'w', encoding='utf-8') as writer:\n            writer.write(file_data)\n            return file_data\n    try:",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.save_contract",
+        "documentation": {}
+    },
+    {
+        "label": "get_env",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.server_env",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.server_env",
+        "peekOfCode": "def get_env(key: str) -> str:\n    value: str | None = os.getenv(key)\n    print(value)\n    if (not value):\n        raise Exception(f\"Enviroment variable with key {key} is not exists\")\n    return value",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.server_env",
+        "documentation": {}
+    },
+    {
+        "label": "StatusCode",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.utils.StatusCode",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.api.utils.StatusCode",
+        "peekOfCode": "class StatusCode(Enum):\n    OK = 200\n    BadRequest = 400\n    NotFound = 404\n    Conflict = 409\n    InternalServerError = 500",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.api.utils.StatusCode",
+        "documentation": {}
+    },
+    {
+        "label": "get_app_config",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.config.app_config",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.config.app_config",
+        "peekOfCode": "def get_app_config(key: str) -> Any:\n    value = APP_CONFIG[key]\n    if (not value):\n        raise Exception(f\"APP_CONFIG with key {key} is not exists\")\n    return value\nsocketio: SocketIO\ndef setup_app_config(app: Flask) -> None:\n    CORS(app, origins=get_app_config(\"ALLOWED_ORIGINS\"),  supports_credentials=True)\n    # app.secret_key = \"Can't be hack Password\"\n    # app.config['SESSION_TYPE'] = 'filesystem'  # You can choose a different backend",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.config.app_config",
+        "documentation": {}
+    },
+    {
+        "label": "setup_app_config",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.config.app_config",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.config.app_config",
+        "peekOfCode": "def setup_app_config(app: Flask) -> None:\n    CORS(app, origins=get_app_config(\"ALLOWED_ORIGINS\"),  supports_credentials=True)\n    # app.secret_key = \"Can't be hack Password\"\n    # app.config['SESSION_TYPE'] = 'filesystem'  # You can choose a different backend\n    # app.permanent_session_lifetime= timedelta(days=5)\n    # app.config.update(SESSION_COOKIE_SAMESITE=\"None\", SESSION_COOKIE_SECURE=True)\n    # Session(app)\n    #stop automate sorting dict response\n    # app.json.sort_keys = False # type: ignore\n    client_route = Blueprint(\"client\", __name__, url_prefix=\"/api/v1/client\")",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.config.app_config",
+        "documentation": {}
+    },
+    {
+        "label": "init_database",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.config.database_config",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.config.database_config",
+        "peekOfCode": "def init_database() -> None:\n    connect(\n        DATABASE_NAME,\n        host=CONNECTION_STRING,\n    )\n    global client\n    global db\n    client = MongoClient(CONNECTION_STRING)\n    db = client[DATABASE_NAME]",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.config.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.server.v1.config.database_config",
+        "description": "BE.smart-contract-analyzer-backend.server.v1.config.database_config",
+        "peekOfCode": "db = None\ndef init_database() -> None:\n    connect(\n        DATABASE_NAME,\n        host=CONNECTION_STRING,\n    )\n    global client\n    global db\n    client = MongoClient(CONNECTION_STRING)\n    db = client[DATABASE_NAME]",
+        "detail": "BE.smart-contract-analyzer-backend.server.v1.config.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "Docker",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.docker.Docker",
+        "description": "BE.smart-contract-analyzer-backend.tools.docker.Docker",
+        "peekOfCode": "class Docker:\n    client = docker.from_env()\n    @classmethod\n    def pull_image(cls, image: str) -> None:\n        try:\n            Log.info('pulling ' + image + ' image, this may take a while...')\n            image = cls.client.images.pull(image) # type: ignore\n            Log.info(f'image {image} pulled')\n        except errors.APIError as err:\n            Log.err('Errors occurred when pulling image ' + image)",
+        "detail": "BE.smart-contract-analyzer-backend.tools.docker.Docker",
+        "documentation": {}
+    },
+    {
+        "label": "Async",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.Async",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.Async",
+        "peekOfCode": "class Async:\n    @classmethod\n    def run_functions(\n        cls,\n        arr_func: list[Callable],\n        arr_args: list[list],\n        detach: bool = False\n    ) -> list:\n        \"\"\"Run multiple functions with each arguments separately asynchronously\n        Args:",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.Async",
+        "documentation": {}
+    },
+    {
+        "label": "Log",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.Log",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.Log",
+        "peekOfCode": "class Log:\n    @staticmethod\n    def info(msg: Any) -> None:\n        print(Fore.GREEN + \"INFO: \" + str(msg))\n    @staticmethod\n    def warn(msg: Any) -> None:\n        print(Fore.YELLOW + \"WARNING: \" + str(msg))\n    @staticmethod\n    def err(msg: Any) -> None:\n        print(Fore.RED + \"ERROR: \" + str(msg))",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.Log",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateIssue",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.merge_tools",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.merge_tools",
+        "peekOfCode": "class DuplicateIssue():\n    dup_issues = [\n        {\"slither\": \"suicidal\", \"mythril\": \"Unprotected Selfdestruct\"},\n        {\"slither\": \"reentrancy-eth\", \"mythril\": \"External Call To User-Supplied Address\"},\n        {\"slither\": \"reentrancy-event\", \"mythril\": \"External Call To User-Supplied Address\"},\n        {\"slither\": \"controlled-delegatecall\", \"mythril\": \"Delegatecall to user-supplied address\"},\n        {\"slither\": \"controlled-delegatecall\", \"mythril\": \"\"},#false positive\n        {\"slither\": \"assembly\", \"mythril\": \"Jump to an arbitrary instruction\"}\n        # Add more mappings here\n    ]",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.merge_tools",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_jsonstr",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.parsers",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.parsers",
+        "peekOfCode": "def obj_to_jsonstr(obj: object) -> str:\n    return json.dumps(\n        obj,\n        default=lambda o:\n            o.value if isinstance(o, Enum) else o.__dict__,\n        indent=2)\ndef obj_to_json(o: object) -> dict[str, Any]:\n    return json.loads(obj_to_jsonstr(o))",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "obj_to_json",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.parsers",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.parsers",
+        "peekOfCode": "def obj_to_json(o: object) -> dict[str, Any]:\n    return json.loads(obj_to_jsonstr(o))",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "get_title_name",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "peekOfCode": "def get_title_name(check:str) -> str:\n    return map_check_to_title[check]\ndef get_swc_no(check: str) -> str:\n    if map_slither_check_to_swc[check] != 'N/A':\n        return map_slither_check_to_swc[check]\n    return 'N/A'\ndef link_hint(check: str) -> str:\n    url = \"https://github.com/crytic/slither/wiki/Detector-Documentation\"\n    return map_check_to_issue[check] \ndef valid_swc(swc: str) -> tuple[bool, str]:",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "get_swc_no",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "peekOfCode": "def get_swc_no(check: str) -> str:\n    if map_slither_check_to_swc[check] != 'N/A':\n        return map_slither_check_to_swc[check]\n    return 'N/A'\ndef link_hint(check: str) -> str:\n    url = \"https://github.com/crytic/slither/wiki/Detector-Documentation\"\n    return map_check_to_issue[check] \ndef valid_swc(swc: str) -> tuple[bool, str]:\n    \"\"\"kiểm tra và lấy định dạng swc chuẩn\n    Args:",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "link_hint",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "peekOfCode": "def link_hint(check: str) -> str:\n    url = \"https://github.com/crytic/slither/wiki/Detector-Documentation\"\n    return map_check_to_issue[check] \ndef valid_swc(swc: str) -> tuple[bool, str]:\n    \"\"\"kiểm tra và lấy định dạng swc chuẩn\n    Args:\n        swc (str): _description_\n    Returns:\n        tuple[bool, str]: _description_\n    \"\"\"",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "valid_swc",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "peekOfCode": "def valid_swc(swc: str) -> tuple[bool, str]:\n    \"\"\"kiểm tra và lấy định dạng swc chuẩn\n    Args:\n        swc (str): _description_\n    Returns:\n        tuple[bool, str]: _description_\n    \"\"\"\n    if (re.match(swc_regex['only_number'], swc)):\n        return (True, \"SWC-\"+swc)\n    if (re.match(swc_regex['full'], swc)):",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "get_swc_link",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "peekOfCode": "def get_swc_link(swc: str, validated: bool = False) -> str:\n    if (swc == 'N/A'):\n        return \"N/A\"\n    if (validated or valid_swc(swc)[0]):\n        return f'https://swcregistry.io/docs/{swc.upper()}/'\n    raise Exception(f\"{swc} is not a valid SWC, see more details https://swcregistry.io/\")\ndef get_swc_title(swc: str, validated: bool = False) -> str:\n    if (swc == 'N/A'):\n        return \"N/A\"\n    if (validated or valid_swc(swc)[0]):",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "get_swc_title",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "description": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "peekOfCode": "def get_swc_title(swc: str, validated: bool = False) -> str:\n    if (swc == 'N/A'):\n        return \"N/A\"\n    if (validated or valid_swc(swc)[0]):\n        return map_to_swc_title[swc.upper()]\n    raise Exception(f\"{swc} is not a valid SWC, see more details https://swcregistry.io/\")",
+        "detail": "BE.smart-contract-analyzer-backend.tools.utils.SWC",
+        "documentation": {}
+    },
+    {
+        "label": "Mythril",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.Mythril",
+        "description": "BE.smart-contract-analyzer-backend.tools.Mythril",
+        "peekOfCode": "class Mythril(Tool):\n    tool_name = ToolName.Mythril\n    tool_cfg = Tool.load_default_cfg(tool_name)\n    def __init__(self) -> None:\n        super().__init__()\n    @override\n    @classmethod\n    def parse_raw_result(cls, raw_result: RawResult, duration: float, file_name: str, solc: str) -> FinalResult:\n        issues: list[AnalysisIssue] = []\n        for raw_issue in raw_result['issues']:",
+        "detail": "BE.smart-contract-analyzer-backend.tools.Mythril",
+        "documentation": {}
+    },
+    {
+        "label": "parse_source_map",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.Mythril",
+        "description": "BE.smart-contract-analyzer-backend.tools.Mythril",
+        "peekOfCode": "def parse_source_map(source_map) -> str:\n    src_map_shorten = source_map[:4]\n    return src_map_shorten",
+        "detail": "BE.smart-contract-analyzer-backend.tools.Mythril",
+        "documentation": {}
+    },
+    {
+        "label": "Slither",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.Slither",
+        "description": "BE.smart-contract-analyzer-backend.tools.Slither",
+        "peekOfCode": "class Slither(Tool):\n    tool_name = ToolName.Slither\n    tool_cfg = Tool.load_default_cfg(tool_name)\n    container_name = \"slither-tool\"\n    # create container\n    container = Docker.client.containers.get(container_name) \\\n            if Docker.exists_container(container_name) \\\n            else Docker.client.containers.run(\n                image=tool_cfg.docker_image,\n                command=\"\",",
+        "detail": "BE.smart-contract-analyzer-backend.tools.Slither",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.Tool",
+        "description": "BE.smart-contract-analyzer-backend.tools.Tool",
+        "peekOfCode": "class Tool(ABC):\n    tool_name: ToolName\n    image_config_path: str = os.path.abspath(os.path.join(os.path.dirname(__file__), \"docker/image-config\"))\n    storage_path: str = os.path.abspath(os.path.join(os.path.dirname(__file__), \"storage\"))\n    tool_cfg: ImageConfig\n    valid_solcs: list[str] = ['0.8.21', '0.8.20', '0.8.19', '0.8.18', '0.8.17', '0.8.16', '0.8.15', '0.8.14', '0.8.13', '0.8.12', '0.8.11', '0.8.10', '0.8.9', '0.8.8', '0.8.7', '0.8.6', '0.8.5', '0.8.4', '0.8.3', '0.8.2', '0.8.1', '0.8.0', '0.7.6', '0.7.5', '0.7.4', '0.7.3', '0.7.2', '0.7.1', '0.7.0', '0.6.12', '0.6.11', '0.6.10', '0.6.9', '0.6.8', '0.6.7', '0.6.6', '0.6.5', '0.6.4', '0.6.3', '0.6.2', '0.6.1', '0.6.0', '0.5.17', '0.5.16', '0.5.15', '0.5.14', '0.5.13', '0.5.12', '0.5.11', '0.5.10', '0.5.9', '0.5.8', '0.5.7', '0.5.6', '0.5.5', '0.5.4', '0.5.3', '0.5.2', '0.5.1', '0.5.0', '0.4.26', '0.4.25', '0.4.24', '0.4.23', '0.4.22', '0.4.21', '0.4.20', '0.4.19', '0.4.18', '0.4.17', '0.4.16', '0.4.15', '0.4.14', '0.4.13', '0.4.12', '0.4.11', '0.4.10', '0.4.9', '0.4.8', '0.4.7', '0.4.6', '0.4.5', '0.4.3', '0.4.2', '0.4.1', '0.4.0']\n    valid_solcs_str = \",\".join(valid_solcs)\n    def __init__(\n        self\n    ) -> None:",
+        "detail": "BE.smart-contract-analyzer-backend.tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "RawResult",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.Tool",
+        "description": "BE.smart-contract-analyzer-backend.tools.Tool",
+        "peekOfCode": "RawResult = Any\nclass Tool(ABC):\n    tool_name: ToolName\n    image_config_path: str = os.path.abspath(os.path.join(os.path.dirname(__file__), \"docker/image-config\"))\n    storage_path: str = os.path.abspath(os.path.join(os.path.dirname(__file__), \"storage\"))\n    tool_cfg: ImageConfig\n    valid_solcs: list[str] = ['0.8.21', '0.8.20', '0.8.19', '0.8.18', '0.8.17', '0.8.16', '0.8.15', '0.8.14', '0.8.13', '0.8.12', '0.8.11', '0.8.10', '0.8.9', '0.8.8', '0.8.7', '0.8.6', '0.8.5', '0.8.4', '0.8.3', '0.8.2', '0.8.1', '0.8.0', '0.7.6', '0.7.5', '0.7.4', '0.7.3', '0.7.2', '0.7.1', '0.7.0', '0.6.12', '0.6.11', '0.6.10', '0.6.9', '0.6.8', '0.6.7', '0.6.6', '0.6.5', '0.6.4', '0.6.3', '0.6.2', '0.6.1', '0.6.0', '0.5.17', '0.5.16', '0.5.15', '0.5.14', '0.5.13', '0.5.12', '0.5.11', '0.5.10', '0.5.9', '0.5.8', '0.5.7', '0.5.6', '0.5.5', '0.5.4', '0.5.3', '0.5.2', '0.5.1', '0.5.0', '0.4.26', '0.4.25', '0.4.24', '0.4.23', '0.4.22', '0.4.21', '0.4.20', '0.4.19', '0.4.18', '0.4.17', '0.4.16', '0.4.15', '0.4.14', '0.4.13', '0.4.12', '0.4.11', '0.4.10', '0.4.9', '0.4.8', '0.4.7', '0.4.6', '0.4.5', '0.4.3', '0.4.2', '0.4.1', '0.4.0']\n    valid_solcs_str = \",\".join(valid_solcs)\n    def __init__(\n        self",
+        "detail": "BE.smart-contract-analyzer-backend.tools.Tool",
+        "documentation": {}
+    },
+    {
+        "label": "ToolName",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class ToolName(Enum):\n    Mythril = \"mythril\"\n    Slither = \"slither\"\n@unique\nclass ErrorClassification(Enum):\n    RuntimeOut = \"runtime out\"\n    CompileError = \"compile error\"\n    UnsupportedSolc = \"unsupported solc\"\n    UndefinedSolc = \"undefined solc\"\n    UnknownError = \"unknown error\"",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorClassification",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class ErrorClassification(Enum):\n    RuntimeOut = \"runtime out\"\n    CompileError = \"compile error\"\n    UnsupportedSolc = \"unsupported solc\"\n    UndefinedSolc = \"undefined solc\"\n    UnknownError = \"unknown error\"\n@dataclass\nclass ToolError:\n    error: ErrorClassification\n    msg: str",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolError",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class ToolError:\n    error: ErrorClassification\n    msg: str\n@dataclass\nclass AnalysisIssue:\n    contract: str\n    source_map: str\n    line_no: list[int]\n    code: str\n    description: str",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisIssue",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class AnalysisIssue:\n    contract: str\n    source_map: str\n    line_no: list[int]\n    code: str\n    description: str\n    hint: str\n    issue_title: str\n    swcID: str\n    swc_title: str",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResult",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class AnalysisResult:\n    errors: list[ToolError]\n    #combine here\n    issues: list[AnalysisIssue]\n@dataclass\nclass FinalResult:\n    file_name: str\n    tool_name: str\n    duration: float\n    solc: str",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "FinalResult",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class FinalResult:\n    file_name: str\n    tool_name: str\n    duration: float\n    solc: str\n    analysis: AnalysisResult\n@dataclass\nclass ImageVolume:\n    bind: str\n    mode: str",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ImageVolume",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class ImageVolume:\n    bind: str\n    mode: str\n@dataclass\nclass ImageConfig:\n    docker_image: str\n    analyze_cmd: str\n    options: str\n    volumes: ImageVolume\n    timeout: int",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ImageConfig",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class ImageConfig:\n    docker_image: str\n    analyze_cmd: str\n    options: str\n    volumes: ImageVolume\n    timeout: int\n@dataclass\nclass ToolAnalyzeArgs:\n    sub_container_file_path: str\n    file_name: str",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "ToolAnalyzeArgs",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.tools.types",
+        "description": "BE.smart-contract-analyzer-backend.tools.types",
+        "peekOfCode": "class ToolAnalyzeArgs:\n    sub_container_file_path: str\n    file_name: str\n    solc: str = \"\"\n    docker_image: str = \"\"\n    options: str = \"\"\n    timeout: int = -1",
+        "detail": "BE.smart-contract-analyzer-backend.tools.types",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass\n        tee_f.write(what)",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info[0],\n        sys.version_info[1],\n        suffix,",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(\"-> %s\\\\%s[%s]=%r\" % (root_key_name, key_name, value_name, value))\n        finally:",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(\"-> DELETE %s\\\\%s[%s]\" % (root_key_name, key_name, value_name))\n        finally:",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n        like file_created to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(\"Failed to unregister COM objects: %s\" % (why,))\n    try:",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location):\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError('Path \"{}\" does not exist!'.format(location))\n    return location\ndef main():\n    import argparse\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    import argparse\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install\n    If you installed pywin32 via a .exe installer, this should be run\n    automatically after installation, but if it fails you can run it again.\n    If you installed pywin32 via PIP, you almost certainly need to run this to",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(os.path.join(tempfile.gettempdir(), \"pywin32_postinstall.log\"), \"w\")\nclass Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True\nexcept NameError:",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(\"*** Test script '%s' exited with %s\" % (script, result.returncode))\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [this_dir] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "this_dir",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "this_dir = os.path.dirname(__file__)\nsite_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "description": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": "BE.smart-contract-analyzer-backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.app",
+        "description": "BE.smart-contract-analyzer-backend.app",
+        "peekOfCode": "app = Flask(__name__)\nsetup_app_config(app)\nimport server.v1.api.client.socket.events\nfrom server.v1.config.app_config import socketio\nif __name__ == \"__main__\":\n    socketio.run(app, use_reloader=True, log_output=True)",
+        "detail": "BE.smart-contract-analyzer-backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "BE.smart-contract-analyzer-backend.test_tool",
+        "description": "BE.smart-contract-analyzer-backend.test_tool",
+        "peekOfCode": "a = {\n    'a': 1,\n    'b': 2,\n}\nprint(datetime.datetime.now())",
+        "detail": "BE.smart-contract-analyzer-backend.test_tool",
+        "documentation": {}
+    }
+]
