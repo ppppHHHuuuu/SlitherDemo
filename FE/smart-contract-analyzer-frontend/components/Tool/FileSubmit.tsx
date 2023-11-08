@@ -16,13 +16,30 @@ interface SubmitResponse {
     }[]
 }
 
+interface state {
+    silther: boolean;
+    mythril: boolean;
+}
+  
 const FileSubmit : React.FC = () => {
     const dispatch: Dispatch = useDispatch();
     const router = useRouter();
     const [messageApi, contextHolder] = message.useMessage();
     const [submitDisable, setSubmitDisable] = useState<boolean>(true);
     const [submittedFiles, setSubmittedFiles] = useState<UploadFile[]>([]);
-
+    const [state, setState] = useState<state>({silther:false,mythril:false});
+    const handleSubmit1 = async (e) => {
+        e.preventDefault();
+        
+        setState({...state,"silther":!state.silther});
+        console.log(state);
+    }
+    const handleSubmit2 = async (e) => {
+        e.preventDefault();
+        setState({...state,"mythril":!state.mythril});
+        console.log(state);
+        
+    }
     const handleSubmit = async (e) => {
         e.preventDefault();
         const formData = new FormData();
@@ -117,6 +134,30 @@ const FileSubmit : React.FC = () => {
                     </p>
                 </Dragger>
             </div>
+            <div className="h-auto p-8 border border-gray-200 rounded shadow-md md:mx-20 animate__animated animate__delay-fast animate__fadeInUp">
+            <div className='grid grid-cols-2'>
+                <h2 className='mb-8 text-xl font-bold '>
+                    Choosen Tool
+                </h2>
+                </div>
+                <div className="flex justify-end mt-4">
+                    <div
+                        className={`w-full px-8 py-4 mb-4 font-bold text-white rounded-md focus:shadow-outline bg-blue-500  focus:outline-none ${state.silther ?  "bg-blue-800": "bg-blue-400" } `}
+                        onClick={handleSubmit1}
+                    >
+                        Slither
+                    </div>
+                </div>
+                <div className="flex justify-end mt-4">
+                    <div
+                        className={`w-full px-8 py-4 mb-4 font-bold text-white rounded-md focus:shadow-outline bg-blue-500  focus:outline-none ${state.mythril ?  "bg-blue-800": "bg-blue-400"  } `}
+                        onClick={handleSubmit2}
+                        
+                    >
+                        Mythril
+                    </div>
+                </div>
+            </div>  
             <div className="flex justify-end mt-4">
                 {contextHolder}
                 <button

@@ -3,8 +3,15 @@ import Layout from "../components/Layout";
 
 import FileSubmit from "../components/Tool/FileSubmit";
 import RepoImport from "../components/Tool/RepoImport";
+// import Choosen from "../components/Tool/Choosen";
+
+// interface state {
+//   silther: boolean;
+//   mythril: boolean;
+// }
 
 const tool: React.FC = () => { 
+  //const [state, setState] = useState<state>({silther:false,mythril:false});
   return (
     <Layout title="Tool">
       <div className="flex justify-center h-auto min-h-screen p-10 mb-12 bg-white animate__animated animate__fadeIn">
@@ -14,6 +21,8 @@ const tool: React.FC = () => {
             <p className="text-xl font-thin md:text-2xl">Or</p>
           </div>
           <FileSubmit />
+          
+
         </div>
       </div>
     </Layout>
