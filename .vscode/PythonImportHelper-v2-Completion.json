@@ -1068,6 +1068,14 @@
         "documentation": {}
     },
     {
+        "label": "ToolName",
+        "importPath": "tools.types",
+        "description": "tools.types",
+        "isExtraImport": true,
+        "detail": "tools.types",
+        "documentation": {}
+    },
+    {
         "label": "FinalResult",
         "importPath": "tools.types",
         "description": "tools.types",
@@ -2344,7 +2352,7 @@
         "kind": 2,
         "importPath": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
         "description": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
-        "peekOfCode": "def start_analyzing(\n    submit_id: str,\n    user_id,\n    files_ids: list[str],\n    files_name: list[str],\n    files_sourcode: list[FileStorage] | list[str],\n    detach: bool = True\n) -> None:\n    for i, file_id in enumerate(files_ids):\n        source_code: str = save_contract(",
+        "peekOfCode": "def start_analyzing(\n    submit_id: str,\n    user_id,\n    files_ids: list[str],\n    files_name: list[str],\n    files_sourcode: list[FileStorage] | list[str],\n    detach: bool = True,\n    slither_chosen = True,\n    mythril_chosen = True\n) -> None:",
         "detail": "BE.smart-contract-analyzer-backend.server.v1.api.client.controllers.tool.submit.handle_submit",
         "documentation": {}
     },

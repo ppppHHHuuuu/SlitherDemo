@@ -11,7 +11,7 @@ from server.v1.api.utils.server_env import get_env
 import tools.Tool
 
 APP_CONFIG: dict[str, Any] = {
-    "ALLOWED_ORIGINS": ["http://localhost:3000"]
+    "ALLOWED_ORIGINS": ["http://localhost:3000","http://localhost:3001"]
 }
 
 tool_storage_path: str = tools.Tool.Tool.storage_path

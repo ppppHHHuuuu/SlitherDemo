@@ -28,6 +28,7 @@ const FileSubmit : React.FC = () => {
     const [submitDisable, setSubmitDisable] = useState<boolean>(true);
     const [submittedFiles, setSubmittedFiles] = useState<UploadFile[]>([]);
     const [state, setState] = useState<state>({silther:false,mythril:false});
+    
     const handleSubmit1 = async (e) => {
         e.preventDefault();
         
@@ -59,9 +60,13 @@ const FileSubmit : React.FC = () => {
                 'Content-Type': 'multipart/form-data',
                 },
                 withCredentials: true,
+                params: {
+                    slither: state.silther,
+                    mythril: state.mythril,
+                }
             })
             .then((response) => {
-                const data: SubmitResponse = JSON.parse(response.data)
+                const data: SubmitResponse = JSON.parse(response.data);
                 console.log(data);
                 messageApi.success('Loading finished', 0.5);
                 router.push(
@@ -72,7 +77,7 @@ const FileSubmit : React.FC = () => {
                         }
                     }, '/submit/' + data.submit_id
                 );
-            })
+            })    
             .catch((error) => {
                 messageApi.error('Error occurred', 0.5);
                 console.log(error);

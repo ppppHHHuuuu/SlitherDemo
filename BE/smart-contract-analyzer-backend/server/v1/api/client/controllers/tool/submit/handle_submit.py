@@ -17,7 +17,7 @@ from server.v1.api.utils.parsers import obj_to_json, obj_to_jsonstr
 from server.v1.api.utils.path import get_subcontainer_file_path
 from server.v1.api.utils.save_contract import save_contract
 from tools.Tool import Tool
-from tools.types import AnalysisResult, FinalResult, ToolAnalyzeArgs
+from tools.types import AnalysisResult, FinalResult, ToolAnalyzeArgs, ToolName
 
 @dataclass
 class FileInfo:
@@ -44,7 +44,15 @@ def handle_submit():
 
     files_data: ImmutableMultiDict[str, FileStorage] = request.files
     file_keys: dict_keys[str, FileStorage] = files_data.keys()
-
+    if request.args.get("slither") == "true":
+        slither_chosen = True
+    else:   
+        slither_chosen = False
+    if request.args.get("mythril") == "true":
+        mythril_chosen = True
+    else:
+        mythril_chosen = False
+    print ("request.args", request.args.to_dict())
     response_data: SubmitResponse = SubmitResponse(submit_id=submit_id, files_info=[])
     files_sourcode: list[FileStorage] = []
 
@@ -68,7 +76,9 @@ def handle_submit():
         user_id=user_id,
         files_ids=[file_info.file_id for file_info in response_data.files_info],
         files_name=[file_info.file_name for file_info in response_data.files_info],
-        files_sourcode=files_sourcode
+        files_sourcode=files_sourcode,
+        slither_chosen = slither_chosen,
+        mythril_chosen = mythril_chosen
     )
 
     return jsonify(obj_to_jsonstr(response_data))
@@ -79,7 +89,9 @@ def start_analyzing(
     files_ids: list[str],
     files_name: list[str],
     files_sourcode: list[FileStorage] | list[str],
-    detach: bool = True
+    detach: bool = True,
+    slither_chosen = True,
+    mythril_chosen = True
 ) -> None:
     for i, file_id in enumerate(files_ids):
         source_code: str = save_contract(
@@ -100,7 +112,12 @@ def start_analyzing(
         SubmitDoc(id=submit_id,files_ids=files_ids).save()
     else:
         submit_doc.update(push_all__files_ids=files_ids)
-
+    tools: list[ToolName] = []
+    if slither_chosen:  
+        tools.append(ToolName.Slither)
+    if mythril_chosen:  
+        tools.append(ToolName.Mythril)
+    
     def analyze():
         result_stream: Generator = Tool.analyze_files_async(
             files=[
@@ -109,6 +126,7 @@ def start_analyzing(
                     file_name=f"{file_id}.sol",
                 ) for file_id in files_ids
             ],
+            tools = tools,
             stream=True
         ) # type: ignore
         for final_result in result_stream:
